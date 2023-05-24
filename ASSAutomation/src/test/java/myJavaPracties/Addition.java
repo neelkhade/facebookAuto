@@ -1,6 +1,9 @@
 package myJavaPracties;
 
+import org.junit.Test;
+
 public class Addition {
+@Test
 
 	public static void main(String[] args) {
 		int a= 10;
